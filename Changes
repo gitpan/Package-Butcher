@@ -1,0 +1,5 @@
+Revision history for Package-Butcher
+
+0.01    Feb 12, 2011
+        Slice and dice classes to force them to load.
+
