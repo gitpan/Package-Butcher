@@ -15,11 +15,11 @@ name: Package-Butcher
 provides:
   Package::Butcher:
     file: lib/Package/Butcher.pm
-    version: 0.01
+    version: 0.02
   Package::Butcher::Inflator:
     file: lib/Package/Butcher/Inflator.pm
-    version: 0.01
+    version: 0.02
 resources:
   license: http://dev.perl.org/licenses/
   repository: https://github.com/Ovid/Package-Butcher
-version: 0.01
+version: 0.02

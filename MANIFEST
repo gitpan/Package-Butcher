@@ -8,7 +8,7 @@ t/00-load.t
 t/butcher.t
 t/lib/Dummy.pm
 t/manifest.t
-t/pod-coverage.t
-t/pod.t
+xt/pod-coverage.t
+xt/pod.t
 Makefile.PL
 META.yml

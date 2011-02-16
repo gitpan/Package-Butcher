@@ -9,7 +9,7 @@ use Carp ();
 use constant VALID_PACKAGE_RE => qr/^\w+(?:::\w+)*$/;
 use constant VALID_SUBROUTINE_RE  => qr/^[_[:alpha:]][[:word:]]*$/;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 sub new {
     my ( $class, $arg_for ) = @_;
@@ -230,7 +230,7 @@ daughter to be born. Sue me.
 
 =head1 VERSION
 
-Version 0.01
+Version 0.02
 
 =cut
 
